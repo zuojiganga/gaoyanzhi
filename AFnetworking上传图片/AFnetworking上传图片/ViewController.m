@@ -16,9 +16,7 @@
     // 超时时间
     manager.requestSerializer.timeoutInterval = kTimeOutInterval;
     afdsadsfasdfasdf;
-    asdfjks;adlkfj;asl
-    
-    asd;lkjf;lkasdjkf;ls
+ dzxfvcffdffffffffff
     // 声明上传的是json格式的参数，需要你和后台约定好，不然会出现后台无法获取到你上传的参数问题
     manager.requestSerializer = [AFHTTPRequestSerializer serializer]; // 上传普通格式
     //    manager.requestSerializer = [AFJSONRequestSerializer serializer]; // 上传JSON格式
